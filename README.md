@@ -1,4 +1,4 @@
-# predictionsFinal
+# predictions
 
 Part 1 (50 points)
 
